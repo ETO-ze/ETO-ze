@@ -26,21 +26,6 @@
 
 使用 MicroPython、ESP32、RP2040 与 LVGL 完成设备通信和状态显示；使用 Git、Docker Compose 管理版本与部署。
 
-## 代表项目
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://github.com/ETO-ze/duskrain-food-map"><img src="./assets/food-map.svg" width="100%" alt="DuskRain Food Map：地图检索、地点评价与内容管理" /></a></td>
-    <td width="50%"><a href="https://github.com/ETO-ze/dust2-web"><img src="./assets/dust2-web.svg" width="100%" alt="Dust2 Web：浏览器多人战术对战、战术人机与移动端触控" /></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/ETO-ze/holocubic-hub"><img src="./assets/holocubic.svg" width="100%" alt="HoloCubic Hub：Windows 设备配置、状态桥接与固件修复" /></a></td>
-    <td width="50%"><a href="https://github.com/ETO-ze/codex-oled-status-display"><img src="./assets/oled.svg" width="100%" alt="Codex OLED Status Display：通过 RP2040 与 OLED 显示桌面任务状态" /></a></td>
-  </tr>
-  <tr>
-    <td colspan="2"><a href="https://github.com/ETO-ze/zhubi-studio"><img src="./assets/zhubi.svg" width="100%" alt="逐笔 Zhubi Studio：本地照片矢量化、SVG 绘制与逐笔回放" /></a></td>
-  </tr>
-</table>
 
 ## GitHub 统计
 
