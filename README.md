@@ -10,19 +10,19 @@
 
 **前端与交互**
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,vue,react,vite,threejs&amp;theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,vue,react,vite,threejs&amp;theme=light" /><img src="https://skillicons.dev/icons?i=ts,js,vue,react,vite,threejs&amp;theme=light" height="44" alt="TypeScript、JavaScript、Vue、React、Vite、Three.js" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cvue%2Creact%2Cvite%2Cthreejs&amp;theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cvue%2Creact%2Cvite%2Cthreejs&amp;theme=light" /><img src="https://skillicons.dev/icons?i=ts%2Cjs%2Cvue%2Creact%2Cvite%2Cthreejs&amp;theme=light" height="44" alt="TypeScript、JavaScript、Vue、React、Vite、Three.js" /></picture>
 
 构建业务界面、管理后台与浏览器 3D 场景；通过 WebSocket 实现多人状态同步。
 
 **后端与自动化**
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,fastapi,nodejs,sqlite,powershell&amp;theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,fastapi,nodejs,sqlite,powershell&amp;theme=light" /><img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,sqlite,powershell&amp;theme=light" height="44" alt="Python、FastAPI、Node.js、SQLite、PowerShell" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cfastapi%2Cnodejs%2Csqlite%2Cpowershell&amp;theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cfastapi%2Cnodejs%2Csqlite%2Cpowershell&amp;theme=light" /><img src="https://skillicons.dev/icons?i=python%2Cfastapi%2Cnodejs%2Csqlite%2Cpowershell&amp;theme=light" height="44" alt="Python、FastAPI、Node.js、SQLite、PowerShell" /></picture>
 
 实现 API、账户权限与数据存储，处理数据采集、批量任务和本地工作流。
 
 **设备与部署**
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,docker&amp;theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,docker&amp;theme=light" /><img src="https://skillicons.dev/icons?i=git,docker&amp;theme=light" height="44" alt="Git、Docker" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cdocker&amp;theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cdocker&amp;theme=light" /><img src="https://skillicons.dev/icons?i=git%2Cdocker&amp;theme=light" height="44" alt="Git、Docker" /></picture>
 
 使用 MicroPython、ESP32、RP2040 与 LVGL 完成设备通信和状态显示；使用 Git、Docker Compose 管理版本与部署。
 
