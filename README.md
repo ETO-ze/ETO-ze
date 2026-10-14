@@ -6,6 +6,15 @@
 
 **[个人技术主页 ↗](https://eto-ze.github.io/)** · [邮件联系](mailto:prdusk.com@gmail.com)
 
+## 精选项目
+
+- **[dust2-web · 网页战术对战](https://github.com/ETO-ze/dust2-web)**：多人房间、战术人机与移动端操作，支持网页、Android 和 Windows 联机。
+- **[duskrain-food-map · 美食地图](https://github.com/ETO-ze/duskrain-food-map)**：基于高德地图与 Google Maps 的个人美食资料库，整合店家筛选、评价与作者工作台。
+- **[ipv6-research-helper · IPv6 科研下载助手](https://github.com/ETO-ze/ipv6-research-helper)**：Go + C# WPF 原生 Windows 工具，提供严格 IPv6 上游、实际文件检测与下载管理。
+- **[codex-oled-status-display · 桌面状态显示器](https://github.com/ETO-ze/codex-oled-status-display)**：通过 USB 将本机 Codex 活动状态显示在 RP2040-Zero、OLED 与三色 LED 上，包含硬件工程与 MicroPython 固件。
+- **[holocubic-hub · HoloCubic 设备工作台](https://github.com/ETO-ze/holocubic-hub)**：面向 ESP32 HoloCubic 的 Windows 配套工具，集成设备配置、USB 校时、Codex 状态显示与固件稳定性补丁。
+- **[zhubi-studio · 逐笔绘制工作室](https://github.com/ETO-ze/zhubi-studio)**：本地照片矢量化、手动绘制与逐笔回放，支持导出 SVG、HTML 回放和工程文件。
+
 ## 技术栈
 
 ### 前端与交互
