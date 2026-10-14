@@ -39,44 +39,22 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sub>WEB · 多人游戏</sub>
-      <h3><a href="https://github.com/ETO-ze/dust2-web">网页战术对战 ↗</a></h3>
-      <p>多人房间、战术人机与移动端操作，支持网页、Android 和 Windows 联机。</p>
-      <p><a href="https://github.com/ETO-ze/dust2-web"><strong>dust2-web</strong></a></p>
+      <p><strong><a href="https://github.com/ETO-ze/dust2-web">网页战术对战 ↗</a></strong><br><sub>dust2-web</sub></p>
+      <p>支持多人联机、战术人机与移动端操作的网页 FPS。</p>
     </td>
     <td width="50%" valign="top">
-      <sub>WEB · 地图应用</sub>
-      <h3><a href="https://github.com/ETO-ze/duskrain-food-map">DuskRain 美食地图 ↗</a></h3>
-      <p>基于高德地图与 Google Maps 的个人美食资料库，整合店家筛选、评价与作者工作台。</p>
-      <p><a href="https://github.com/ETO-ze/duskrain-food-map"><strong>duskrain-food-map</strong></a></p>
+      <p><strong><a href="https://github.com/ETO-ze/duskrain-food-map">DuskRain 美食地图 ↗</a></strong><br><sub>duskrain-food-map</sub></p>
+      <p>整合高德与 Google Maps 的个人美食地图，支持筛选与评价。</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>DESKTOP · 科研工具</sub>
-      <h3><a href="https://github.com/ETO-ze/ipv6-research-helper">IPv6 科研下载助手 ↗</a></h3>
-      <p>Go + C# WPF 原生 Windows 工具，提供严格 IPv6 上游、实际文件检测与下载管理。</p>
-      <p><a href="https://github.com/ETO-ze/ipv6-research-helper"><strong>ipv6-research-helper</strong></a></p>
+      <p><strong><a href="https://github.com/ETO-ze/ipv6-research-helper">IPv6 科研下载助手 ↗</a></strong><br><sub>ipv6-research-helper</sub></p>
+      <p>提供 IPv6 上游、文件检测与下载管理的原生 Windows 工具。</p>
     </td>
     <td width="50%" valign="top">
-      <sub>CREATIVE · 绘制工具</sub>
-      <h3><a href="https://github.com/ETO-ze/zhubi-studio">逐笔绘制工作室 ↗</a></h3>
-      <p>本地照片矢量化、手动绘制与逐笔回放，支持导出 SVG、HTML 回放和工程文件。</p>
-      <p><a href="https://github.com/ETO-ze/zhubi-studio"><strong>zhubi-studio</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>HARDWARE · 状态显示</sub>
-      <h3><a href="https://github.com/ETO-ze/codex-oled-status-display">Codex 桌面状态显示器 ↗</a></h3>
-      <p>通过 USB 将 Codex 活动显示在 RP2040-Zero、OLED 与三色 LED 上，包含硬件工程与 MicroPython 固件。</p>
-      <p><a href="https://github.com/ETO-ze/codex-oled-status-display"><strong>codex-oled-status-display</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <sub>HARDWARE · 设备管理</sub>
-      <h3><a href="https://github.com/ETO-ze/holocubic-hub">HoloCubic 设备工作台 ↗</a></h3>
-      <p>面向 ESP32 HoloCubic 的 Windows 配套工具，集成设备配置、USB 校时、Codex 状态显示与固件补丁。</p>
-      <p><a href="https://github.com/ETO-ze/holocubic-hub"><strong>holocubic-hub</strong></a></p>
+      <p><strong><a href="https://github.com/ETO-ze/codex-oled-status-display">Codex 桌面状态显示器 ↗</a></strong><br><sub>codex-oled-status-display</sub></p>
+      <p>通过 USB 将 Codex 活动状态显示在 RP2040、OLED 与三色 LED 上。</p>
     </td>
   </tr>
 </table>
